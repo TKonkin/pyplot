@@ -134,14 +134,14 @@
 
 # math        - For mathematical functions (sqrt, log, etc.)
 # statistics  - For statistical analysis (mean, median, stdev, etc.)
-# random      - For generating random numbers
+# random
 # time        - For time-based functions
 # datetime    - For date and time manipulation
 
 # logging     - For structured logging in Python
 # re          - For regular expressions and pattern matching
 # pprint      - For pretty-printing complex or nested data structures
-# collections - For specialized containers like Counter, defaultdict
+# collections
 # typing      - For type hints and static type checking
 # unittest    - For writing and running unit tests
 
